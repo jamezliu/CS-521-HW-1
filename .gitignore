@@ -1,0 +1,13 @@
+# Datasets (public, auto-downloaded by torchvision)
+cifar10_data/
+
+# Pretrained weights provided with the assignment (~45 MB each)
+models/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# The written report is submitted separately as a PDF; keep it out of the repo
+WRITEUP.md
+*.pdf

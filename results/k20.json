@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Linf-trained",
+    "n": 10000,
+    "k": 20,
+    "random_start": false,
+    "clean": 82.8,
+    "linf": 50.76,
+    "l2": 47.02,
+    "union": 45.53,
+    "only_linf": 1.49,
+    "only_l2": 5.23,
+    "both_broken": 30.55,
+    "n_clean_correct": 8280,
+    "max_linf": 0.03137257695198059,
+    "max_l2": 0.7500001788139343,
+    "secs": 152.28139472007751
+  },
+  {
+    "name": "L2-trained",
+    "n": 10000,
+    "k": 20,
+    "random_start": false,
+    "clean": 88.75,
+    "linf": 29.45,
+    "l2": 53.59,
+    "union": 29.45,
+    "only_linf": 24.14,
+    "only_l2": 0.0,
+    "both_broken": 35.16,
+    "n_clean_correct": 8875,
+    "max_linf": 0.03137257695198059,
+    "max_l2": 0.7500001192092896,
+    "secs": 142.03635573387146
+  },
+  {
+    "name": "RAMP",
+    "n": 10000,
+    "k": 20,
+    "random_start": false,
+    "clean": 81.19,
+    "linf": 49.07,
+    "l2": 59.37,
+    "union": 49.06,
+    "only_linf": 10.31,
+    "only_l2": 0.01,
+    "both_broken": 21.81,
+    "n_clean_correct": 8119,
+    "max_linf": 0.03137257695198059,
+    "max_l2": 0.7500001788139343,
+    "secs": 139.2461347579956
+  }
+]
